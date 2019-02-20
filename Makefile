@@ -1,7 +1,7 @@
 DESCRIPTION = User Interface helper library
-URL = https://github.com/ikle/ui
+URL = https://github.com/ikle/ui-xlib
 
-LIBNAME	= ikle-ui
+LIBNAME	= ikle-ui-xlib
 LIBVER	= 0
 LIBREV	= 0.1
 
